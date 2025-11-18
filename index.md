@@ -20,7 +20,7 @@ I want to find a dataset of sickle cell cases, but couldn't. I am curious to see
 
 # Where is Schueller Plot Filtered For His Gym Data
 <iframe
-    src="schuell1r_bar.html"
+    src="schuelle1r_bar.html"
     width="100%"
     height="600"
     frameborder="0">
